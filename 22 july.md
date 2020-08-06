@@ -6,3 +6,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________
 ![image](https://user-images.githubusercontent.com/49730521/89522957-b5813e80-d7ff-11ea-896b-b15af7a2af5f.png)
 ![image](https://user-images.githubusercontent.com/49730521/89523017-ce89ef80-d7ff-11ea-8ea1-ba4c4fca5147.png)
+_____________________________________________________________________________________________________________
+## Make a new function myapp and pass it in runapp
+![image](https://user-images.githubusercontent.com/49730521/89522957-b5813e80-d7ff-11ea-896b-b15af7a2af5f.png)
+![image](https://user-images.githubusercontent.com/49730521/89523017-ce89ef80-d7ff-11ea-8ea1-ba4c4fca5147.png)
