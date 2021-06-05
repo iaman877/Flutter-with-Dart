@@ -4,12 +4,6 @@
 
 We think Flutter will help you create beautiful, fast apps, with a productive,
 extensible and open development model.
-# New Update
-we need to set 
-Set envirnonment variable as [C:\Users\hp\AppData\Local\Android\Sdk] then run the fallowing command on cmd
-> flutter  config  --android-sdk="C:\Users\hp\AppData\Local\Android\Sdk"
-> flutter  config   --android-studio-dir="C:\Program Files\Android\Android Studio"
-
 ## Productive development
 Flutter offers stateful hot reload, allowing you to make changes to your code and see the results instantly without restarting your app or losing its state.
 
@@ -19,3 +13,15 @@ Flutter offers stateful hot reload, allowing you to make changes to your code an
 ![4](https://user-images.githubusercontent.com/49730521/89096668-05be6200-d3f6-11ea-9226-3bdad7f82822.PNG)
 ![5](https://user-images.githubusercontent.com/49730521/89096670-07882580-d3f6-11ea-8c9d-0dda90cf3f1c.PNG)
 ![6](https://user-images.githubusercontent.com/49730521/89096673-08b95280-d3f6-11ea-87db-409b3035dd34.PNG)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+# New Update  5/6/2021
+we need to set 
+Set envirnonment variable as [C:\Users\hp\AppData\Local\Android\Sdk] then run the fallowing command on cmd
+> flutter  config  --android-sdk="C:\Users\hp\AppData\Local\Android\Sdk"
+> flutter  config   --android-studio-dir="C:\Program Files\Android\Android Studio"
+
+![image](https://user-images.githubusercontent.com/49730521/120898525-d5180c00-c648-11eb-9e9d-375e2ef55d84.png)
+![image](https://user-images.githubusercontent.com/49730521/120898545-ebbe6300-c648-11eb-8d25-c648d9f06e2c.png)
+
