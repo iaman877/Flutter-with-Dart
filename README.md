@@ -4,6 +4,11 @@
 
 We think Flutter will help you create beautiful, fast apps, with a productive,
 extensible and open development model.
+# New Update
+we need to set 
+Set envirnonment variable as [C:\Users\hp\AppData\Local\Android\Sdk] then run the fallowing command on cmd
+> flutter  config  --android-sdk="C:\Users\hp\AppData\Local\Android\Sdk"
+> flutter  config   --android-studio-dir="C:\Program Files\Android\Android Studio"
 
 ## Productive development
 Flutter offers stateful hot reload, allowing you to make changes to your code and see the results instantly without restarting your app or losing its state.
