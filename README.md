@@ -17,8 +17,9 @@ Flutter offers stateful hot reload, allowing you to make changes to your code an
 ----------------------------------------------------------------------------------------------------------------------------------------------
 
 # New Update  5/6/2021
-we need to set 
-Set envirnonment variable as [C:\Users\hp\AppData\Local\Android\Sdk] then run the fallowing command on cmd
+
+* Set envirnonment variable ANDROID_SDK_ROOT = C:\Users\hp\AppData\Local\Android\Sdk 
+* Then run the fallowing command on cmd
 > flutter  config  --android-sdk="C:\Users\hp\AppData\Local\Android\Sdk"
 > flutter  config   --android-studio-dir="C:\Program Files\Android\Android Studio"
 
